@@ -27,6 +27,7 @@ Fonctionnalités MATLAB utilisées :
 <h2>Résultats attendus 🎯</h2>
 
 -Un affichage en direct de la détection de la main.
+
 -La possibilité de dessiner ou écrire sur une interface virtuelle avec la trajectoire capturée par votre main.
 
 <h2>Contribution 🤝</h2>
