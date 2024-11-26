@@ -15,9 +15,10 @@ Détection de contours : Suivi précis des contours pour capturer les mouvements
 <h2>Technologies utilisées 🛠️</h2>
 
 Langage de programmation : MATLAB
-Fonctionnalités MATLAB utilisées : -Traitement d'images (Image Processing Toolbox)
-                                   -Accès à la webcam (MATLAB Support Package for USB Webcams)
-                                   -Techniques de segmentation et détection de contours
+Fonctionnalités MATLAB utilisées : 
+-Traitement d'images (Image Processing Toolbox)
+-Accès à la webcam (MATLAB Support Package for USB Webcams)
+-Techniques de segmentation et détection de contours
 
 <h2>Résultats attendus 🎯</h2>
 
