@@ -37,6 +37,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, 
 <h2>Auteurs ✨</h2>
 
 M'HIEFD Zineb
+
 SAHEL Bouchra
 
 <h2>Remerciements 💐</h2>
