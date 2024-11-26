@@ -13,6 +13,7 @@ Filtrage : Application de filtres pour isoler les régions pertinentes ou suppri
 Détection de contours : Suivi précis des contours pour capturer les mouvements de la main et permettre le dessin en temps réel.
 
 <h2>Technologies utilisées 🛠️</h2>
+
 Langage de programmation : MATLAB
 Fonctionnalités MATLAB utilisées : -Traitement d'images (Image Processing Toolbox)
                                    -Accès à la webcam (MATLAB Support Package for USB Webcams)
