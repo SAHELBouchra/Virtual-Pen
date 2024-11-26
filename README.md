@@ -1,5 +1,4 @@
-
-#Virtual Pen 🎨
+# Virtual Pen 🎨
 
 Ce projet propose une solution innovante pour écrire ou dessiner dans un environnement virtuel en utilisant une webcam et des techniques de traitement d'image, développé avec MATLAB.
 
