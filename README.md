@@ -19,7 +19,9 @@ Langage de programmation : MATLAB
 Fonctionnalités MATLAB utilisées : 
 
 -Traitement d'images (Image Processing Toolbox)
+
 -Accès à la webcam (MATLAB Support Package for USB Webcams)
+
 -Techniques de segmentation et détection de contours
 
 <h2>Résultats attendus 🎯</h2>
