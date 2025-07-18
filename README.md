@@ -40,13 +40,10 @@ Feel free to open an **issue** or submit a **pull request** to improve the proje
 
 ## 📸 Preview (Optional)
 
+<img width="316" height="276" alt="vp1" src="https://github.com/user-attachments/assets/0138c8a9-d0bd-45bf-93cf-8b691c62acbc" />
+<img width="277" height="245" alt="vp2" src="https://github.com/user-attachments/assets/c1978cb4-5dfc-439b-8768-54b661de9f72" />
 
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 
 
