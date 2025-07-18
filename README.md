@@ -1,45 +1,52 @@
-# Virtual Pen 🎨
+# 🖊️ Virtual Pen
 
-Ce projet propose une solution innovante pour écrire ou dessiner dans un environnement virtuel en utilisant une webcam et des techniques de traitement d'image, développé avec MATLAB.
+This project offers an innovative solution for writing or drawing in a virtual environment using a webcam and image processing techniques, developed with **MATLAB**.
 
-<h2>Fonctionnalités 📋</h2>
+---
 
-Prétraitement d'image : Amélioration de la qualité des images capturées par la webcam à l'aide de techniques comme le filtrage des bruits et l'amélioration du contraste.
+## 📋 Features
 
-Segmentation : Identification de la région correspondant à la main en utilisant la segmentation par couleur ou basée sur les contours.
+- **Image Preprocessing**: Enhances the quality of webcam images using noise filtering and contrast improvement.
+- **Segmentation**: Detects the user's hand region using color or contour-based segmentation.
+- **Filtering**: Applies filters to isolate relevant regions and eliminate unwanted parts.
+- **Contour Detection**: Tracks hand contours precisely for real-time drawing.
 
-Filtrage : Application de filtres pour isoler les régions pertinentes ou supprimer les éléments indésirables.
+---
 
-Détection de contours : Suivi précis des contours pour capturer les mouvements de la main et permettre le dessin en temps réel.
+## 🛠️ Technologies Used
 
-<h2>Technologies utilisées 🛠️</h2>
+- **Programming Language**: MATLAB
 
-Langage de programmation : MATLAB
+### MATLAB Toolboxes and Packages:
+- Image Processing Toolbox
+- MATLAB Support Package for USB Webcams
+- Custom segmentation and contour detection techniques
 
-Fonctionnalités MATLAB utilisées : 
+---
 
--Traitement d'images (Image Processing Toolbox)
+## 🎯 Expected Results
 
--Accès à la webcam (MATLAB Support Package for USB Webcams)
+- 🔴 **Live hand detection display**
+- ✍️ **Draw or write on a virtual interface** using your hand’s motion in front of the webcam
 
--Techniques de segmentation et détection de contours
+---
 
-<h2>Résultats attendus 🎯</h2>
+## 🤝 Contributing
 
--Un affichage en direct de la détection de la main.
+Contributions are welcome!  
+Feel free to open an **issue** or submit a **pull request** to improve the project.
 
--La possibilité de dessiner ou écrire sur une interface virtuelle avec la trajectoire capturée par votre main.
+---
 
-<h2>Contribution 🤝</h2>
+## 📸 Preview (Optional)
 
-Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce projet, n'hésitez pas à soumettre une issue ou une pull request.
 
-<h2>Auteurs ✨</h2>
 
-M'HIEFD Zineb
+---
 
-SAHEL Bouchra
+## 📄 License
 
-<h2>Remerciements 💐</h2>
+This project is open-source and available under the [MIT License](LICENSE).
 
-Un grand merci à Dr. El Mouhtadi Meryem pour son encadrement et son soutien durant ce projet.
+
+
